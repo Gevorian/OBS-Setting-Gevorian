@@ -1,0 +1,9 @@
+MaxNumRefFrames=4 
+HighMotionQualityBoostEnable=1 
+BReferenceEnable=true 
+EnableVBAQ=false 
+EnablePreAnalysis=true 
+PASceneChangeDetectionEnable=false 
+PATemporalAQMode=1 
+PAHighMotionQualityBoostMode=1 
+PAFrameSadEnable=true
